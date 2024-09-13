@@ -9,3 +9,8 @@ Library Module (图库模块)
 Order Module (订单模块)
 Distribution Module (分销模块)
 Coupon Module (优惠券模块)
+
+# doc
+vue3: https://v3.vuejs.org/guide/introduction.html
+vite: https://vitejs.dev/guide/
+element-plus: https://element-plus.org/
